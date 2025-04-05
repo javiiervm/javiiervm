@@ -1,5 +1,14 @@
 # Hey everyone 😄
 
+## 👤 About me
+I'm Javier, a Computer Engineering student passionate about game development and programming 💻🎮
+Living in Alicante, Spain 📍
+
+## 💻 Skills & Technologies
+### Languages
+C, C++, C#, Python, Java
+
+
 <!--
 **javiiervm/javiiervm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +24,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Javier, a Computer Engineering student passionate about game development and programming 💻🎮
