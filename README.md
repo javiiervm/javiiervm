@@ -13,8 +13,7 @@ C, C++, C#, Python, Java, Swift, SQL, PL/SQL, Scheme, Racket
 VS Code, Visual Studio 2022, ASP.NET
 
 ## 🚀 Featured Projects
-### 🎓 [Universidad](https://github.com/javiiervm/Universidad)
-A repository with almost all the work and projects I had to program at college.  
+- 🎓 **[Universidad](https://github.com/javiiervm/Universidad)**: A repository with almost all the work and projects I had to program at college.  
 
 ## 📧 Contact
 - 📞 617 01 19 46
