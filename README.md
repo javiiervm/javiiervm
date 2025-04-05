@@ -7,7 +7,10 @@ Living in Alicante, Spain 📍
 
 ## 💻 Skills & Technologies
 ### Languages
-C, C++, C#, Python, Java
+C, C++, C#, Python, Java, SQL, PL/SQL, Scheme, Swift
+
+### Programs
+VS Code, Visual Studio 2022, ASP.NET
 
 ## 🚀 Featured Projects
 -
