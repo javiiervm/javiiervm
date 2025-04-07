@@ -1,4 +1,10 @@
-# Hey everyone 😄
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="Icons/icon.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h1 align="center">Hey everyone 😄</h1>
+</div>
 
 ## 👤 About me
 I'm Javier, a Computer Engineering student passionate about game development and programming 💻🎮
@@ -7,14 +13,35 @@ Living in Alicante, Spain 📍
 
 ## 💻 Skills & Technologies
 ### Languages
-C, C++, C#, Python, Java, Swift, SQL, PL/SQL, Scheme, Racket
+* Python
+* C/C++
+* C#
+* Java
+* JavaScript
+* Swift
+* Scheme/Racket
+* ASP.NET
+* SQL Server
+* PL/SQL
+* MIPS Assembly
+* x86 Assembly (with MMX and SSE)
+* Cuda
+* MongoDB
+* Prolog
 
 ### Programs
-VS Code, Visual Studio 2022, ASP.NET
+* VS Code
+* Visual Studio 2022
+* Eclipse IDE for Java
+* DrRacket
+* SQLDeveloper
+* DBeaver
+* MongoDB
 
 ## 🚀 Featured Projects
 - 🛠️ **[Project development](https://github.com/javiiervm/Project-development)**: A repository with all the projects I develop, in the readme there's a link to the final version of each finished one. 
 - 🎓 **[Universidad](https://github.com/javiiervm/Universidad)**: A repository with almost all the work and projects I had to program at college.
+- Make sure to check out **my GitHub profile** to see all my work!
 
 ## 📧 Contact
 - 📞 617 01 19 46
