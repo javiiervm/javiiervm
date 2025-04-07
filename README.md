@@ -1,9 +1,7 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Icons/icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/javiiervm">
+    <img src="Assets/206308534-modified.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h1 align="center">Hey everyone 😄</h1>
 </div>
 
 ## 👤 About me
