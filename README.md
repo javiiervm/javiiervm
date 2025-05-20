@@ -10,31 +10,63 @@ I'm Javier, a Computer Engineering student passionate about game development and
 Living in Alicante, Spain 📍
 
 ## 💻 Skills & Technologies
-### Languages
-* Python
-* C/C++
-* C#
-* Java
-* JavaScript
-* Swift
-* Scheme/Racket
-* ASP.NET
-* SQL Server
-* PL/SQL
-* MIPS Assembly
-* x86 Assembly (with MMX and SSE)
-* Cuda
-* MongoDB
-* Prolog
 
-### Programs
-* VS Code
-* Visual Studio 2022
-* Eclipse IDE for Java
-* DrRacket
-* SQLDeveloper
-* DBeaver
-* MongoDB
+### 🧠 Languages & Technologies
+<div align="left">
+  <table>
+    <tr>
+      <td>ASP.NET</td>
+      <td>C</td>
+      <td>C#</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>Cuda</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>MIPS Assembly</td>
+      <td>MongoDB</td>
+    </tr>
+    <tr>
+      <td>PL/SQL</td>
+      <td>Prolog</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>SQL Server</td>
+      <td>Scheme/Racket</td>
+      <td>Swift</td>
+    </tr>
+    <tr>
+      <td>x86 Assembly</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
+### 🛠️ Tools & Programs
+<div align="left">
+  <table>
+    <tr>
+      <td>DBeaver</td>
+      <td>DrRacket</td>
+      <td>Eclipse IDE</td>
+    </tr>
+    <tr>
+      <td>MongoDB Compass</td>
+      <td>SQL Developer</td>
+      <td>Visual Studio 2022</td>
+    </tr>
+    <tr>
+      <td>VS Code</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Featured Projects
 - 🛠️ **[Project development](https://github.com/javiiervm/Project-development)**: A repository with all the projects I develop, in the readme there's a link to the final version of each finished one. 
