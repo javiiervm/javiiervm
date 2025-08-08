@@ -11,59 +11,76 @@ Living in Alicante, Spain 📍
 
 ## 💻 Skills & Technologies
 
-### 🧠 Languages & Technologies
+### Programming Languages
 <div align="left">
   <table>
     <tr>
       <td>ASP.NET</td>
       <td>C</td>
       <td>C#</td>
-    </tr>
-    <tr>
       <td>C++</td>
-      <td>Cuda</td>
+      <td>CSS</td>
+      <td>HTML</td>
+      <td>HTML5</td>
       <td>Java</td>
-    </tr>
-    <tr>
       <td>JavaScript</td>
-      <td>MIPS Assembly</td>
-      <td>MongoDB</td>
-    </tr>
+      <td>Lua</td>
     <tr>
+      <td>MIPS Assembly</td>
       <td>PL/SQL</td>
       <td>Prolog</td>
       <td>Python</td>
-    </tr>
-    <tr>
-      <td>SQL Server</td>
-      <td>Scheme/Racket</td>
+      <td>Scheme</td>
+      <td>Rust</td>
+      <td>SQL</td>
       <td>Swift</td>
-    </tr>
-    <tr>
       <td>x86 Assembly</td>
-      <td></td>
       <td></td>
     </tr>
   </table>
 </div>
 
-### 🛠️ Tools & Programs
+### Databases
+<div align="left">
+  <table>
+    <tr>
+      <td>MongoDB</td>
+      <td>Oracle SQL Developer</td>
+      <td>SQL</td>
+    </tr>
+  </table>
+</div>
+
+### Tools and IDEs
 <div align="left">
   <table>
     <tr>
       <td>DBeaver</td>
       <td>DrRacket</td>
-      <td>Eclipse IDE</td>
-    </tr>
-    <tr>
-      <td>MongoDB Compass</td>
-      <td>SQL Developer</td>
+      <td>Eclipse IDE for Java</td>
+      <td>Microsoft Office</td>
+      <td>Microsoft VS Code</td>
       <td>Visual Studio 2022</td>
     </tr>
+  </table>
+</div>
+
+### Operating Systems
+<div align="left">
+  <table>
     <tr>
-      <td>VS Code</td>
-      <td></td>
-      <td></td>
+      <td>Android</td>
+      <td>Linux (specially Ubuntu)</td>
+      <td>Windows</td>
+    </tr>
+  </table>
+</div>
+
+### Other technologies
+<div align="left">
+  <table>
+    <tr>
+      <td>CUDA</td>
     </tr>
   </table>
 </div>
