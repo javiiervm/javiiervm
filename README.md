@@ -75,12 +75,12 @@ Living in Alicante, Spain 📍
 
 ## 📧 Contact
 - 📞 617 01 19 46
-- ✉️ javillamart.iesbabel@gmail.com
+- ✉️ javiervillanuevamartinez09@gmail.com
 
 ## 🌐 Socials
 
 <p align="left">
-  <a href="www.linkedin.com/in/javier-villanueva-martinez-293575327" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/javier-villanuevamartinez/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
