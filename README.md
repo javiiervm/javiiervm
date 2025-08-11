@@ -24,18 +24,16 @@ Living in Alicante, Spain 📍
       <td>HTML5</td>
       <td>Java</td>
       <td>JavaScript</td>
-      <td>Lua</td>
     <tr>
+      <td>Lua</td>
       <td>MIPS Assembly</td>
       <td>PL/SQL</td>
       <td>Prolog</td>
       <td>Python</td>
       <td>Scheme</td>
-      <td>Rust</td>
       <td>SQL</td>
       <td>Swift</td>
       <td>x86 Assembly</td>
-      <td></td>
     </tr>
   </table>
 </div>
@@ -86,9 +84,7 @@ Living in Alicante, Spain 📍
 </div>
 
 ## 🚀 Featured Projects
-- 🛠️ **[Project development](https://github.com/javiiervm/Project-development)**: A repository with all the projects I develop, in the readme there's a link to the final version of each finished one. 
-- 🎓 **[Universidad](https://github.com/javiiervm/Universidad)**: A repository with almost all the work and projects I had to program at college.
-- Make sure to check out **my GitHub profile** to see all my work!
+Check out the pinned repositories!
 
 ## 📧 Contact
 - 📞 617 01 19 46
