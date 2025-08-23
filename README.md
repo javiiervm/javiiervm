@@ -102,7 +102,9 @@ Living in Alicante, Spain 📍
 </div>
 
 ### Other programming languages
-- **Java**: OOP principles and design patterns
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiervm&show_icons=true&locale=en" alt="javiiervm's github languages" />
+
+- **Java**: OOP principles and design patterns.
 - **MIPS Assembly**: Register manipulation, branching, and implementation of low-level algorithms.
 - **PL/SQL**: Database creation and normalization, complex queries with `JOIN`, `GROUP BY`, and `HAVING`, procedures and triggers, efficient data manipulation, stored functions and packages.
 - **Prolog**:
@@ -121,7 +123,10 @@ I mainly work using Microsoft VS Code, Microsoft Visual Studio, JetBrains PyChar
 I have experience working on Linux, Windows, and Android environments.
 
 ## 🚀 Featured Projects
-Check out the pinned repositories!
+- [Xavion AI](https://github.com/javiiervm/Xavion-AI): Local-first AI assistant and coding agent powered by Ollama and LangChain for private, high-performance interactions.
+- [University projects](https://github.com/javiiervm/university-projects): A collection of computer engineering coursework projects, organized by subject, from my university degree program.
+
+Check out my pinned projects in my profile to discover the best of my work!
 
 ## 📧 Contact
 - 📞 617 01 19 46
