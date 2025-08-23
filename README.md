@@ -1,5 +1,5 @@
 <div align="center"> 
-   <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/Banner_CV_round.png" />
+   <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/banner.jpg" />
 </div>
 
 ## 👤 About me
