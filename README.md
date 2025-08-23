@@ -1,7 +1,5 @@
-<div align="center">
-  <a href="https://github.com/javiiervm">
-    <img src="Assets/206308534-modified.png" alt="Logo" width="80" height="80">
-  </a>
+<div align="center"> 
+   <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/Banner_CV_round.png" />
 </div>
 
 ## 👤 About me
