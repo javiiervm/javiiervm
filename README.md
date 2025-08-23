@@ -1,5 +1,5 @@
 <div align="center"> 
-   <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/banner.jpg" />
+   <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/Linkedin_banner_round.png" />
 </div>
 
 ## 👤 About me
