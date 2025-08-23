@@ -5,7 +5,7 @@
 </div>
 
 ## 👤 About me
-I'm Javier, a Computer Engineering student passionate about game development and programming 💻🎮
+I'm Javier, a Computer Engineering student at the University of Alicante (UA), passionate about game development and programming, and always ready to learn and try to overcome myself! 💻🎮
 
 Living in Alicante, Spain 📍
 
