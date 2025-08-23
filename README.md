@@ -125,6 +125,7 @@ I have experience working on Linux, Windows, and Android environments.
 ## 🚀 Featured Projects
 - [Xavion AI](https://github.com/javiiervm/Xavion-AI): Local-first AI assistant and coding agent powered by Ollama and LangChain for private, high-performance interactions.
 - [University projects](https://github.com/javiiervm/university-projects): A collection of computer engineering coursework projects, organized by subject, from my university degree program.
+- [Pychess](https://github.com/javiiervm/pychess): A cross-platform chess game built with Python and Tkinter, featuring touchscreen support.
 
 Check out my pinned projects in my profile to discover the best of my work!
 
