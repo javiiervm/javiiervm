@@ -118,7 +118,6 @@ Living in **Alicante, Spain** 📍
 </div>
 
 ### Other programming languages
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiervm&show_icons=true&locale=en" alt="javiiervm's github languages" /> -->
 <img align="right" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiervm&show_icons=true&locale=en&langs_count=4" 
      alt="javiiervm's github languages" 
@@ -157,11 +156,22 @@ Check out my **pinned projects** in my profile to discover the best of my work!
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/javier-villanuevamartinez/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+  <a href="https://www.linkedin.com/in/javier-villanuevamartinez/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/linkedin_logo.png?raw=true" width="32" height="32" />
   </a>
+
+  <!-- InfoJobs -->
+  <!-- <a href="https://www.infojobs.net/profile/your-profile" target="_blank" rel="noreferrer" style="margin-left:10px; text-decoration:none;">
+    <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/infojobs_logo.png?raw=true" width="32" height="32" />
+  </a> -->
+
+  <!-- Gmail -->
+  <a href="mailto:javiervillanuevamartinez09@gmail.com" target="_blank" rel="noreferrer" style="margin-left:10px; text-decoration:none;">
+    <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/gmail_logo.png?raw=true" width="32" height="32" />
+  </a>
+
+  <!-- WhatsApp -->
+  <!-- <a href="https://wa.me/34617011946" target="_blank" rel="noreferrer" style="margin-left:10px; text-decoration:none;">
+    <img src="https://github.com/javiiervm/javiiervm/blob/main/assets/whatsapp_logo.png?raw=true" width="32" height="32" />
+  </a> -->
 </p>
