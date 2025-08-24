@@ -96,18 +96,39 @@ Living in **Alicante, Spain** 📍
         </ul>
       </td>
     </tr>
+     <tr>
+        <td>
+          <div style="text-align:center;">
+            <a title="Swift" href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
+            </a>
+          </div>
+        </td>
+        <td>
+          <ul>
+            <li>Academic projects focused on <b>functional</b> and <b>object-oriented programming</b> paradigms.</li>
+            <li>Implemented <b>recursive algorithms</b>, <b>generic types</b>, and <b>higher-order functions</b>.</li>
+            <li>Worked with <b>data abstraction</b> and <b>immutability</b> concepts.</li>
+            <li>Developed skills in writing <b>clean, maintainable, and structured code</b> using modern Swift features.</li>
+            <li>Familiarity with <b>Xcode</b> and Swift tooling ecosystem for future application development.</li>
+          </ul>
+        </td>
+      </tr>
   </table>
 </div>
 
 ### Other programming languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiervm&show_icons=true&locale=en" alt="javiiervm's github languages" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiervm&show_icons=true&locale=en" alt="javiiervm's github languages" /> -->
+<img align="right" 
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiervm&show_icons=true&locale=en&langs_count=4" 
+     alt="javiiervm's github languages" 
+     width="250" />
 
 - **Java**: OOP principles and design patterns.
 - **MIPS Assembly**: Register manipulation, branching, and implementation of low-level algorithms.
 - **PL/SQL**: Database creation and normalization, complex queries with `JOIN`, `GROUP BY`, and `HAVING`, procedures and triggers, efficient data manipulation, stored functions and packages.
 - **Prolog**:
-- **Scheme**: Functional programming principles, recursion and higher-order functions.
-- **Swift**:
+- **Scheme**: Functional programming principles, recursion, and higher-order functions.
 - **x86 Assembly**: Instruction-level programming, memory management with registers and stack, algorithm implementation at low level.
 
 ### Other technologies
