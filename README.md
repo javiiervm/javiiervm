@@ -126,7 +126,7 @@ Living in **Alicante, Spain** 📍
 - **Java**: OOP principles and design patterns.
 - **MIPS Assembly**: Register manipulation, branching, and implementation of low-level algorithms.
 - **PL/SQL**: Database creation and normalization, complex queries with `JOIN`, `GROUP BY`, and `HAVING`, procedures and triggers, efficient data manipulation, stored functions and packages.
-- **Prolog**:
+- **Prolog**: Basic logical programming exercises.
 - **Scheme**: Functional programming principles, recursion, and higher-order functions.
 - **x86 Assembly**: Instruction-level programming, memory management with registers and stack, algorithm implementation at low level.
 
