@@ -118,10 +118,12 @@ Living in **Alicante, Spain** 📍
 </div>
 
 ### Other programming languages
+<!--
 <img align="right" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiervm&show_icons=true&locale=en&langs_count=4" 
      alt="javiiervm's github languages" 
      width="250" />
+-->
 
 - **Java**: OOP principles and design patterns.
 - **MIPS Assembly**: Register manipulation, branching, and implementation of low-level algorithms.
