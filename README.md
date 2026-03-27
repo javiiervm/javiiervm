@@ -151,8 +151,7 @@ I have experience working on **Linux, Windows, and Android environments**.
 Check out my **pinned projects** in my profile to discover the best of my work!
 
 ## 📧 Contact
-- 📞 **617 01 19 46**
-- ✉️ **javiervillanuevamartinez09@gmail.com**
+* **javiervillanuevamartinez09@gmail.com**
 
 ## 🌐 Socials
 
