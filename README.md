@@ -68,6 +68,28 @@ I have participated in innovation initiatives with **Banco Sabadell** (Innovatio
 
 Additional project experience includes distributed systems with **Kafka** and **Docker**, **ASP.NET** and **SQL Server**, **Lua/Luau multiplayer systems**, and **TensorFlow/Keras** image classification.
 
+## GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=javiiervm&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&bg_color=0d1117"
+    alt="Javier's GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=javiiervm&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"
+    alt="Javier's Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=javiiervm&hide_border=true&background=0D1117&stroke=30363D&ring=ff5f1f&fire=ff9a00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e"
+    alt="Javier's GitHub Streak"
+  />
+</p>
+
 ## Contact
 
 If you want to talk about software, a project or a collaboration:
