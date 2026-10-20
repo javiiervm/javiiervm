@@ -24,6 +24,8 @@ That approach has led me to work on local AI tools, interactive C++ visualizatio
 
 > **Selected work:** the pinned repositories below are the projects that best represent what I build and how I work.
 
+> You can check out some of my **university projects** on [this repository](https://github.com/javiiervm/university-projects).
+
 ## What I work with
 
 <table>
